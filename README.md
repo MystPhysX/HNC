@@ -1,4 +1,4 @@
-Hellenic Coin a scrypt based on Litecoin/staging tree
+Hellenic Coin a scrypt coin based on Litecoin
 ================================
 
 http://www.helleniccoin.gr
@@ -7,7 +7,7 @@ Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
 Copyright (c) 2015 Helleniccoin
 
-What is Litecoin?
+What is Hellenic Coin?
 ----------------
 
 Helleniccoin is based on Litecoin whitch is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
+the Helleniccoin client sofware, see http://www.helleniccoin.gr.
 
 License
 -------
