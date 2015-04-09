@@ -11,7 +11,7 @@ What is Helleniccoin?
 
 Helleniccoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 30 minute block targets
- - subsidy halves in 50k blocks (~4 years)
+ - subsidy halves in 50k blocks
  - ~100 million total coins
 
 The rest is the same as Bitcoin.
