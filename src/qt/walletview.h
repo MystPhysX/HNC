@@ -1,8 +1,8 @@
 /*
- * Qt4 bitcoin GUI.
+ * Qt4 helleniccoin GUI.
  *
- * W.J. van der Laan 2011-2012
- * The Bitcoin Developers 2011-2013
+ * W.J. van der Laan 2011-2015
+ * The helleniccoin Developers 2011-2013
  */
 #ifndef WALLETVIEW_H
 #define WALLETVIEW_H
@@ -44,7 +44,7 @@ public:
     */
     void setClientModel(ClientModel *clientModel);
     /** Set the wallet model.
-        The wallet model represents a bitcoin wallet, and offers access to the list of transactions, address book and sending
+        The wallet model represents a helleniccoin wallet, and offers access to the list of transactions, address book and sending
         functionality.
     */
     void setWalletModel(WalletModel *walletModel);

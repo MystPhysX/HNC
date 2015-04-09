@@ -1,8 +1,8 @@
 /*
- * Qt4 bitcoin GUI.
+ * Qt4 helleniccoin GUI.
  *
- * W.J. van der Laan 2011-2012
- * The Bitcoin Developers 2011-2013
+ * W.J. van der Laan 2011-2015
+ * The helleniccoin Developers 2011-2013
  */
 #include "walletframe.h"
 #include "bitcoingui.h"

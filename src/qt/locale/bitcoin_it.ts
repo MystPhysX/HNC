@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About helleniccoin</source>
         <translation>Info su helleniccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;helleniccoin&lt;/b&gt; version</source>
         <translation>Versione di &lt;b&gt;helleniccoin&lt;/b&gt;</translation>
     </message>
     <message>
@@ -34,7 +34,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
+        <source>The helleniccoin developers</source>
         <translation>Sviluppatori di helleniccoin</translation>
     </message>
 </context>
@@ -67,7 +67,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your helleniccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Questi sono i tuoi indirizzi helleniccoin per ricevere pagamenti. Potrai darne uno diverso ad ognuno per tenere così traccia di chi ti sta pagando.</translation>
     </message>
     <message>
@@ -82,7 +82,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
+        <source>Sign a message to prove you own a helleniccoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -107,7 +107,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
+        <source>Verify a message to ensure it was signed with a specified helleniccoin address</source>
         <translation>Verifica un messaggio per accertarsi che sia firmato con un indirizzo helleniccoin specifico</translation>
     </message>
     <message>
@@ -122,7 +122,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your helleniccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -275,7 +275,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>helleniccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
         <translation>helleniccoin verrà ora chiuso per finire il processo di crittazione. Ricorda che criptare il tuo portamonete non può fornire una protezione totale contro furti causati da malware che dovessero infettare il tuo computer.</translation>
     </message>
     <message>
@@ -374,7 +374,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information about helleniccoin</source>
         <translation>Mostra informazioni su helleniccoin</translation>
     </message>
     <message>
@@ -419,12 +419,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a helleniccoin address</source>
         <translation>Invia monete ad un indirizzo helleniccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
+        <source>Modify configuration options for helleniccoin</source>
         <translation>Modifica configurazione opzioni per helleniccoin</translation>
     </message>
     <message>
@@ -455,7 +455,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
+        <source>helleniccoin</source>
         <translation>helleniccoin</translation>
     </message>
     <message>
@@ -480,7 +480,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About helleniccoin</source>
         <translation>&amp;Info su helleniccoin</translation>
     </message>
     <message>
@@ -500,12 +500,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
+        <source>Sign messages with your helleniccoin addresses to prove you own them</source>
         <translation>Firma i messaggi con il tuo indirizzo helleniccoin per dimostrare di possederli</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified helleniccoin addresses</source>
         <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi helleniccoin specificati</translation>
     </message>
     <message>
@@ -536,12 +536,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
+        <source>helleniccoin client</source>
         <translation>helleniccoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
+        <source>%n active connection(s) to helleniccoin network</source>
         <translation><numerusform>%n connessione attiva alla rete helleniccoin</numerusform><numerusform>%n connessioni attive alla rete helleniccoin</numerusform></translation>
     </message>
     <message>
@@ -657,7 +657,7 @@ Indirizzo: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid helleniccoin address or malformed URI parameters.</source>
         <translation>Impossibile interpretare l&apos;URI! Ciò può essere causato da un indirizzo helleniccoin invalido o da parametri URI non corretti.</translation>
     </message>
     <message>
@@ -671,8 +671,8 @@ Indirizzo: %4
         <translation>Il portamonete è &lt;b&gt;cifrato&lt;/b&gt; e attualmente &lt;b&gt;bloccato&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
+        <location filename="../helleniccoin.cpp" line="+111"/>
+        <source>A fatal error occurred. helleniccoin can no longer continue safely and will quit.</source>
         <translation>Riscontrato un errore irreversibile. helleniccoin non può più continuare in sicurezza e verrà terminato.</translation>
     </message>
 </context>
@@ -738,7 +738,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid helleniccoin address.</source>
         <translation>L&apos;indirizzo inserito &quot;%1&quot; non è un indirizzo helleniccoin valido.</translation>
     </message>
     <message>
@@ -757,7 +757,7 @@ Indirizzo: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
+        <source>helleniccoin-Qt</source>
         <translation>helleniccoin-Qt</translation>
     </message>
     <message>
@@ -821,12 +821,12 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
+        <source>Automatically start helleniccoin after logging in to the system.</source>
         <translation>Avvia automaticamente helleniccoin all&apos;accensione del computer</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
+        <source>&amp;Start helleniccoin on system login</source>
         <translation>&amp;Fai partire helleniccoin all&apos;avvio del sistema</translation>
     </message>
     <message>
@@ -846,7 +846,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the helleniccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Apri automaticamente la porta del client helleniccoin sul router. Questo funziona solo se il router supporta UPnP ed è abilitato.</translation>
     </message>
     <message>
@@ -856,7 +856,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the helleniccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
@@ -931,7 +931,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting helleniccoin.</source>
         <translation>La lingua dell&apos;interfaccia utente può essere impostata qui. L&apos;impostazione avrà effetto dopo il riavvio di helleniccoin.</translation>
     </message>
     <message>
@@ -946,7 +946,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
+        <source>Whether to show helleniccoin addresses in the transaction list or not.</source>
         <translation>Se mostrare l&apos;indirizzo helleniccoin nella transazione o meno.</translation>
     </message>
     <message>
@@ -998,7 +998,7 @@ Indirizzo: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
+        <source>This setting will take effect after restarting helleniccoin.</source>
         <translation>L&apos;impostazione avrà effetto dopo il riavvio di helleniccoin.</translation>
     </message>
     <message>
@@ -1017,7 +1017,7 @@ Indirizzo: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the helleniccoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Le informazioni visualizzate sono datate. Il tuo partafogli verrà sincronizzato automaticamente con il network helleniccoin dopo che la connessione è stabilita, ma questo processo non può essere completato ora.</translation>
     </message>
     <message>
@@ -1071,7 +1071,7 @@ Indirizzo: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start helleniccoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1221,7 +1221,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
+        <source>Show the helleniccoin-Qt help message to get a list with possible helleniccoin command-line options.</source>
         <translation>Mostra il messaggio di aiuto di helleniccoin-QT per avere la lista di tutte le opzioni della riga di comando di helleniccoin.</translation>
     </message>
     <message>
@@ -1241,12 +1241,12 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
+        <source>helleniccoin - Debug window</source>
         <translation>helleniccoin - Finestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
+        <source>helleniccoin Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1256,7 +1256,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the helleniccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Apri il file di log del debug di helleniccoin dalla cartella attuale. Può richiedere alcuni secondi per file di log grandi.</translation>
     </message>
     <message>
@@ -1266,7 +1266,7 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
+        <source>Welcome to the helleniccoin RPC console.</source>
         <translation>Benvenuto nella console RPC di helleniccoin</translation>
     </message>
     <message>
@@ -1321,8 +1321,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 BTC</source>
-        <translation>123,456 BTC</translation>
+        <source>123.456 HNC</source>
+        <translation>123,456 HNC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1450,7 +1450,7 @@ Indirizzo: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a helleniccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Inserisci un indirizzo helleniccoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1515,7 +1515,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
+        <source>Sign the message to prove you own this helleniccoin address</source>
         <translation>Firma un messaggio per dimostrare di possedere questo indirizzo</translation>
     </message>
     <message>
@@ -1551,7 +1551,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified helleniccoin address</source>
         <translation>Verifica il messaggio per assicurarsi che sia stato firmato con l&apos;indirizzo helleniccoin specificato</translation>
     </message>
     <message>
@@ -1567,7 +1567,7 @@ Indirizzo: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a helleniccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Inserisci un indirizzo helleniccoin (ad esempio Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1577,7 +1577,7 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
+        <source>Enter helleniccoin signature</source>
         <translation>Inserisci firma helleniccoin</translation>
     </message>
     <message>
@@ -1651,7 +1651,7 @@ Indirizzo: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
+        <source>The helleniccoin developers</source>
         <translation>Sviluppatori di helleniccoin</translation>
     </message>
     <message>
@@ -2186,10 +2186,10 @@ Indirizzo: %4
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>helleniccoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
+        <source>helleniccoin version</source>
         <translation>Versione di helleniccoin</translation>
     </message>
     <message>
@@ -2199,8 +2199,8 @@ Indirizzo: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>Manda il comando a -server o litecoind
+        <source>Send command to -server or helleniccoind</source>
+        <translation>Manda il comando a -server o helleniccoind
 </translation>
     </message>
     <message>
@@ -2223,14 +2223,14 @@ Indirizzo: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Specifica il file di configurazione (di default: litecoin.conf)
+        <source>Specify configuration file (default: helleniccoin.conf)</source>
+        <translation>Specifica il file di configurazione (di default: helleniccoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Specifica il file pid (default: litecoind.pid)
+        <source>Specify pid file (default: helleniccoind.pid)</source>
+        <translation>Specifica il file pid (default: helleniccoind.pid)
 </translation>
     </message>
     <message>
@@ -2318,7 +2318,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;helleniccoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2334,7 +2334,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. helleniccoin is probably already running.</source>
         <translation>Non è possibile ottenere i dati sulla cartella %s. Probabilmente helleniccoin è già in esecuzione.</translation>
     </message>
     <message>
@@ -2379,7 +2379,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong helleniccoin will not work properly.</source>
         <translation>Attenzione: si prega di controllare che la data del computer e l&apos;ora siano corrette. Se il vostro orologio è sbagliato helleniccoin non funziona correttamente.</translation>
     </message>
     <message>
@@ -2629,7 +2629,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the helleniccoin Wiki for SSL setup instructions)</source>
         <translation>Opzioni SSL: (vedi il wiki di helleniccoin per le istruzioni di configurazione SSL)</translation>
     </message>
     <message>
@@ -2831,12 +2831,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of helleniccoin</source>
         <translation>Errore caricamento wallet.dat: il wallet richiede una versione nuova di helleniccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
+        <source>Wallet needed to be rewritten: restart helleniccoin to complete</source>
         <translation>Il portamonete deve essere riscritto: riavviare helleniccoin per completare</translation>
     </message>
     <message>
@@ -2896,7 +2896,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. helleniccoin is probably already running.</source>
         <translation>Impossibile collegarsi alla %s su questo computer. Probabilmente helleniccoin è già in esecuzione.</translation>
     </message>
     <message>

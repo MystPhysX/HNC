@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
-// Copyright (c) 2009-2012 The Bitcoin developers
+// Copyright (c) 2009-2015 The helleniccoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -1592,7 +1592,7 @@ bool FindUndoPos(CValidationState &state, int nFile, CDiskBlockPos &pos, unsigne
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("bitcoin-scriptch");
+    RenameThread("helleniccoin-scriptch");
     scriptcheckqueue.Thread();
 }
 
@@ -1623,7 +1623,7 @@ bool CBlock::ConnectBlock(CValidationState &state, CBlockIndex* pindex, CCoinsVi
     // See BIP30 and http://r6.ca/blog/20120206T005236Z.html for more information.
     // This logic is not necessary for memory pool transactions, as AcceptToMemoryPool
     // already refuses previously-known transaction ids entirely.
-    // This rule was originally applied all blocks whose timestamp was after October 1, 2012, 0:00 UTC.
+    // This rule was originally applied all blocks whose timestamp was after October 1, 2015, 0:00 UTC.
     // Now that the whole chain is irreversibly beyond that time it is applied to all blocks,
     // this prevents exploiting the issue against nodes in their initial block download.
     bool fEnforceBIP30 = true;
@@ -1636,7 +1636,7 @@ bool CBlock::ConnectBlock(CValidationState &state, CBlockIndex* pindex, CCoinsVi
         }
     }
 
-    // BIP16 didn't become active until Oct 1 2012
+    // BIP16 didn't become active until Oct 1 2015
     int64 nBIP16SwitchTime = 1349049600;
     bool fStrictPayToScriptHash = (pindex->nTime >= nBIP16SwitchTime);
 
@@ -3060,7 +3060,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // Litecoin: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xfb, 0xc0, 0xb6, 0xdb }; // helleniccoin: increase each by adding 2 to helleniccoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
@@ -4548,7 +4548,7 @@ void static LitecoinMiner(CWallet *pwallet)
 {
     printf("helleniccoinMiner:\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("litecoin-miner");
+    RenameThread("helleniccoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);

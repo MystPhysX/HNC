@@ -4,12 +4,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Litecoin</source>
+        <source>About helleniccoin</source>
         <translation>Informatio de helleniccoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Litecoin&lt;/b&gt; version</source>
+        <source>&lt;b&gt;helleniccoin&lt;/b&gt; version</source>
         <translation>&lt;b&gt;helleniccoin&lt;/b&gt; versio</translation>
     </message>
     <message>
@@ -33,7 +33,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The Litecoin developers</source>
+        <source>The helleniccoin developers</source>
         <translation>helleniccoin curatores</translation>
     </message>
 </context>
@@ -66,7 +66,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Litecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your helleniccoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Haec sunt inscriptiones helleniccoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
@@ -81,7 +81,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Litecoin address</source>
+        <source>Sign a message to prove you own a helleniccoin address</source>
         <translation>Signa nuntium ut demonstres inscriptionem helleniccoin a te possessam esse</translation>
     </message>
     <message>
@@ -106,7 +106,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Litecoin address</source>
+        <source>Verify a message to ensure it was signed with a specified helleniccoin address</source>
         <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione helleniccoin</translation>
     </message>
     <message>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your helleniccoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -274,7 +274,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>Litecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <source>helleniccoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
         <translation>helleniccoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
@@ -373,7 +373,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Litecoin</source>
+        <source>Show information about helleniccoin</source>
         <translation>Monstra informationem de helleniccoin</translation>
     </message>
     <message>
@@ -418,12 +418,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Litecoin address</source>
+        <source>Send coins to a helleniccoin address</source>
         <translation>Mitte nummos ad inscriptionem helleniccoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Litecoin</source>
+        <source>Modify configuration options for helleniccoin</source>
         <translation>Muta configurationis optiones pro helleniccoin</translation>
     </message>
     <message>
@@ -454,7 +454,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Litecoin</source>
+        <source>helleniccoin</source>
         <translation>helleniccoin</translation>
     </message>
     <message>
@@ -479,7 +479,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Litecoin</source>
+        <source>&amp;About helleniccoin</source>
         <translation>&amp;Informatio de helleniccoin</translation>
     </message>
     <message>
@@ -499,12 +499,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
+        <source>Sign messages with your helleniccoin addresses to prove you own them</source>
         <translation>Signa nuntios cum tuis inscriptionibus helleniccoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified helleniccoin addresses</source>
         <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus helleniccoin</translation>
     </message>
     <message>
@@ -535,12 +535,12 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>Litecoin client</source>
+        <source>helleniccoin client</source>
         <translation>helleniccoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Litecoin network</source>
+        <source>%n active connection(s) to helleniccoin network</source>
         <translation><numerusform>%n activa conexio ad rete helleniccoin</numerusform><numerusform>%n activae conexiones ad rete helleniccoin</numerusform></translation>
     </message>
     <message>
@@ -655,7 +655,7 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Litecoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid helleniccoin address or malformed URI parameters.</source>
         <translation>URI intellegi non posse!  Huius causa possit inscriptionem helleniccoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
@@ -669,8 +669,8 @@ Inscriptio: %4
         <translation>Cassidile &lt;b&gt;cifratum&lt;/b&gt; est et iam nunc &lt;b&gt;seratum&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Litecoin can no longer continue safely and will quit.</source>
+        <location filename="../helleniccoin.cpp" line="+111"/>
+        <source>A fatal error occurred. helleniccoin can no longer continue safely and will quit.</source>
         <translation>Error fatalis accidit.  helleniccoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
@@ -736,7 +736,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Litecoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid helleniccoin address.</source>
         <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio helleniccoin est.</translation>
     </message>
     <message>
@@ -755,7 +755,7 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Litecoin-Qt</source>
+        <source>helleniccoin-Qt</source>
         <translation>helleniccoin-Qt</translation>
     </message>
     <message>
@@ -818,12 +818,12 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Litecoin after logging in to the system.</source>
+        <source>Automatically start helleniccoin after logging in to the system.</source>
         <translation>Pelle helleniccoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Litecoin on system login</source>
+        <source>&amp;Start helleniccoin on system login</source>
         <translation>&amp;Pelle helleniccoin cum inire systema</translation>
     </message>
     <message>
@@ -843,7 +843,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Litecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the helleniccoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Aperi per se portam clientis helleniccoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
@@ -853,7 +853,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Litecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the helleniccoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Connecte ad rete helleniccoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
@@ -928,7 +928,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Litecoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting helleniccoin.</source>
         <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam helleniccoin iterum initiatum erit.</translation>
     </message>
     <message>
@@ -943,7 +943,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Litecoin addresses in the transaction list or not.</source>
+        <source>Whether to show helleniccoin addresses in the transaction list or not.</source>
         <translation>Num monstrare inscriptiones helleniccoin in enumeratione transactionum.</translation>
     </message>
     <message>
@@ -995,7 +995,7 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Litecoin.</source>
+        <source>This setting will take effect after restarting helleniccoin.</source>
         <translation>Haec configuratio effectiva erit postquam helleniccoin iterum initiatum erit.</translation>
     </message>
     <message>
@@ -1014,7 +1014,7 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litecoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the helleniccoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete helleniccoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
@@ -1068,7 +1068,7 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
+        <source>Cannot start helleniccoin: click-to-pay handler</source>
         <translation>helleniccoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
@@ -1218,7 +1218,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Litecoin-Qt help message to get a list with possible Litecoin command-line options.</source>
+        <source>Show the helleniccoin-Qt help message to get a list with possible helleniccoin command-line options.</source>
         <translation>Monstra nuntium auxilii helleniccoin-Qt ut videas enumerationem possibilium optionum helleniccoin mandati initiantis.</translation>
     </message>
     <message>
@@ -1238,12 +1238,12 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Litecoin - Debug window</source>
+        <source>helleniccoin - Debug window</source>
         <translation>helleniccoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Litecoin Core</source>
+        <source>helleniccoin Core</source>
         <translation>helleniccoin Nucleus</translation>
     </message>
     <message>
@@ -1253,7 +1253,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Litecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the helleniccoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Aperi plicam catalogi de helleniccoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
@@ -1263,7 +1263,7 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Litecoin RPC console.</source>
+        <source>Welcome to the helleniccoin RPC console.</source>
         <translation>Bene ventio in terminale RPC de helleniccoin.</translation>
     </message>
     <message>
@@ -1318,8 +1318,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+10"/>
-        <source>123.456 BTC</source>
-        <translation>123.456 BTC</translation>
+        <source>123.456 HNC</source>
+        <translation>123.456 HNC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1447,7 +1447,7 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a helleniccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Insero inscriptionem helleniccoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1512,7 +1512,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Litecoin address</source>
+        <source>Sign the message to prove you own this helleniccoin address</source>
         <translation>Signa nuntium ut demonstres hanc inscriptionem helleniccoin a te possessa esse</translation>
     </message>
     <message>
@@ -1548,7 +1548,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Litecoin address</source>
+        <source>Verify the message to ensure it was signed with the specified helleniccoin address</source>
         <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione helleniccoin</translation>
     </message>
     <message>
@@ -1564,7 +1564,7 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Litecoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a helleniccoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Insere inscriptionem helleniccoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1574,7 +1574,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Litecoin signature</source>
+        <source>Enter helleniccoin signature</source>
         <translation>Insere signationem helleniccoin</translation>
     </message>
     <message>
@@ -1648,7 +1648,7 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Litecoin developers</source>
+        <source>The helleniccoin developers</source>
         <translation>helleniccoin curatores</translation>
     </message>
     <message>
@@ -2183,10 +2183,10 @@ Inscriptio: %4
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>helleniccoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Litecoin version</source>
+        <source>helleniccoin version</source>
         <translation>Versio de helleniccoin</translation>
     </message>
     <message>
@@ -2196,7 +2196,7 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
+        <source>Send command to -server or helleniccoind</source>
         <translation>Mitte mandatum ad -server vel helleniccoind</translation>
     </message>
     <message>
@@ -2216,12 +2216,12 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
+        <source>Specify configuration file (default: helleniccoin.conf)</source>
         <translation>Specifica configurationis plicam (praedefinitum: helleniccoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
+        <source>Specify pid file (default: helleniccoind.pid)</source>
         <translation>Specifica pid plicam (praedefinitum: helleniccoin.pid)</translation>
     </message>
     <message>
@@ -2305,7 +2305,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Litecoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;helleniccoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
@@ -2316,7 +2316,7 @@ rpcpassword=%s
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;helleniccoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,7 +2331,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Litecoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. helleniccoin is probably already running.</source>
         <translation>Non posse serare datorum indicem %s.  helleniccoin probabiliter iam operatur.</translation>
     </message>
     <message>
@@ -2376,7 +2376,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Litecoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong helleniccoin will not work properly.</source>
         <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, helleniccoin non proprie fungetur.</translation>
     </message>
     <message>
@@ -2626,7 +2626,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Litecoin Wiki for SSL setup instructions)</source>
+        <source>SSL options: (see the helleniccoin Wiki for SSL setup instructions)</source>
         <translation>Optiones SSL: (vide vici de helleniccoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
@@ -2816,12 +2816,12 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Litecoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of helleniccoin</source>
         <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio helleniccoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Litecoin to complete</source>
+        <source>Wallet needed to be rewritten: restart helleniccoin to complete</source>
         <translation>Cassidili necesse erat rescribi: Repelle helleniccoin ut compleas</translation>
     </message>
     <message>
@@ -2881,7 +2881,7 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;Litecoin Notificatio&quot; 
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Litecoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. helleniccoin is probably already running.</source>
         <translation>Non posse conglutinare ad %s in hoc cumputatro.  helleniccoin probabiliter iam operatur.</translation>
     </message>
     <message>
