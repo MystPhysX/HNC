@@ -1030,8 +1030,31 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 
 boost::filesystem::path GetDefaultDataDir()
 {
-    namespace fs = boost::filesystem;
-    return fs::path(".");
+	namespace fs = boost::filesystem;
+    	// Windows < Vista: C:\Documents and Settings\Username\Application Data\Helleniccoin
+    	// Windows >= Vista: C:\Users\Username\AppData\Roaming\Helleniccoin
+    	// Mac: ~/Library/Application Support/Helleniccoin
+    	// Unix: ~/.Helleniccoin
+	#ifdef WIN32
+    	// Windows
+    	return GetSpecialFolderPath(CSIDL_APPDATA) / "Helleniccoin";
+	#else
+    	fs::path pathRet;
+    	char* pszHome = getenv("HOME");
+    	if (pszHome == NULL || strlen(pszHome) == 0)
+        	pathRet = fs::path("/");
+    	else
+        	pathRet = fs::path(pszHome);
+	#ifdef MAC_OSX
+    	// Mac
+   		pathRet /= "Library/Application Support";
+    	fs::create_directory(pathRet);
+    	return pathRet / "Helleniccoin";
+	#else
+    	// Unix
+    	return pathRet / ".Helleniccoin";
+	#endif
+	#endif
 }
 
 const boost::filesystem::path &GetDataDir(bool fNetSpecific)
@@ -1070,7 +1093,7 @@ const boost::filesystem::path &GetDataDir(bool fNetSpecific)
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "coin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "helleniccoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
